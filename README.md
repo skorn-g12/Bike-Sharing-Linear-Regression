@@ -3,14 +3,6 @@
 > We model it as a linear regression problem and try to get a good prediction on the number of bikes rented in a day. 
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 - A bike company wants to stand out in the market by coming up with a mindful business plan. The objective here is to first find the key features/indicators that capture the demand for bike rentals among the population.
 - Once identified, the next goal is to build a model(linear regression) that can accurately the number of bike rentals based on the features in the csv.
